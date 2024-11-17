@@ -43,7 +43,6 @@ Discover our story and meet the people that make our brand what it is. You can h
 
 Visit our website at :
 - 🌐 https://theclothifystore.netlify.app/
-- 🌐 https://itsindrajput.github.io/TheClothifyStore/
 
 Thank you for being a part of The Clothify Store's online shopping revolution. Happy shopping and stay stylish! 🙏🙌
 
